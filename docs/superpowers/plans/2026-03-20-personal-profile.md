@@ -399,7 +399,7 @@
           name: 'video-ops-skill',
           description: 'Automated video pipeline: given a podcast/interview video, automatically completes border detection & crop → Whisper.cpp transcription → LLM highlight selection → speaker/face tracking → Remotion rendering export (9:16 + 1:1, TikTok subtitles, logo overlay) → social media post copy for each clip.',
           links: [
-            { type: 'github', href: 'https://github.com/YYY920' }
+            { type: 'github', href: 'https://github.com/YYY920/video-ops-skill' }
           ]
         },
         {

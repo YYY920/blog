@@ -1,14 +1,14 @@
 # Personal Profile Site Design
 
 **Date:** 2026-03-20
-**Project:** blog (Astro Theme Pure)
+**Project:** blog
 **Goal:** Transform the template blog into Jenny Yang's personal profile / job-seeking showcase
 
 ---
 
 ## Overview
 
-Update the existing Astro blog project to serve as a professional personal profile site, targeting HR and recruiters. The site highlights work experience, education, projects, and skills. All changes reuse existing theme components — no new components are created.
+Update the existing blog project to serve as a professional personal profile site, targeting HR and recruiters. The site highlights work experience, education, projects, and skills. All changes reuse existing theme components — no new components unless necessary.
 
 ---
 
